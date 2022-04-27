@@ -3,6 +3,7 @@
   <a href="https://velog.io/@situm26" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="e0540@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/e0540@hanmail.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9D%B4-%EB%A6%AC-bb3ba022b/" target="_blank"><img src="https://img.shields.io/badge/gaeul2-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaeul2%2Fgaeul2&count_bg=%2379C83D&title_bg=%23555555&icon=django.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
 </p>
 <p>
