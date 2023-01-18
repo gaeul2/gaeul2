@@ -7,7 +7,7 @@
   
 </p>
 <p>
-  Hello I am a new developer.<br/>
+  Hello I am junior developer.<br/>
   I am working on it based on JAVA<br/><br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
